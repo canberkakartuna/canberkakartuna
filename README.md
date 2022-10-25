@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-## Currently, working on ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-## Contact me on ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) 👉 [My Profile](https://www.linkedin.com/in/canberk-akartuna-8931a9166/)
-
-## ![](https://komarev.com/ghpvc/?username=canberkakartuna)
+## Currently, working on ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) projects.
+## [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/canberk-akartuna-8931a9166/) ![](https://komarev.com/ghpvc/?username=canberkakartuna)
 
 <!--
 **canberkakartuna/canberkakartuna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
