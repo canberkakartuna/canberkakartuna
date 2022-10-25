@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## Currently, working on ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-## Contack me on ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) 👉 [My Profile](https://www.linkedin.com/in/canberk-akartuna-8931a9166/)
+## Contact me on ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) 👉 [My Profile](https://www.linkedin.com/in/canberk-akartuna-8931a9166/)
 
 ## ![](https://komarev.com/ghpvc/?username=canberkakartuna)
 
